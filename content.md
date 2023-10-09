@@ -160,9 +160,7 @@ puts x.to_s
 
 The `HTTP::Response` object also has methods that allow us to inspect the `headers`, status `code`, etc. But we're mostly interested in the contents of the body, so `to_s` is what we'll use most often.
 
-The ability to place HTTP requests with Ruby is _incredibly_ powerful. It allows our programs to interact with the outside world. What we just did, pulling in the contents of a web page, is known as **web scraping**. We could then use some techniques to try and extract valuable information out of the `String`, which the rest of our program can use.
-
----
+The ability to place HTTP requests with Ruby is _incredibly_ powerful. It allows our programs to interact with the outside world.
 
 Now that we know how to _send_ HTTP requests with Ruby, it's time to learn how to _receive_ HTTP requests and send back responses — in other words, how to build a web app. That's next.
 
