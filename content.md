@@ -1,6 +1,9 @@
 # Anatomy of an HTTP request
 
-[Here is a video for this lesson](https://share.descript.com/view/jql3w76ls7h). You should not rely entirely on the video. PLEASE READ the below lesson as you are going through the steps, since there is much more detail in the text than in the video.
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+[Here is a video for this lesson](https://share.descript.com/view/jql3w76ls7h). You should not rely entirely on the video. PLEASE READ the below lesson as you are going through the steps, since there is much more detail in the text than in the video. You will need to run all of the code blocks and answer quiz questions to get credit for the lesson.
+</div>
 
 ## The simplest possible HTTP request
 
